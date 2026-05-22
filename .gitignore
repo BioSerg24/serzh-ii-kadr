@@ -21,3 +21,23 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Python / Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
